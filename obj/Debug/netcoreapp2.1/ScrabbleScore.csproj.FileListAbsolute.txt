@@ -1,0 +1,13 @@
+/Users/myfamily/Exercism/csharp/scrabble-score/obj/Debug/netcoreapp2.1/ScrabbleScore.csprojAssemblyReference.cache
+/Users/myfamily/Exercism/csharp/scrabble-score/obj/Debug/netcoreapp2.1/ScrabbleScore.AssemblyInfoInputs.cache
+/Users/myfamily/Exercism/csharp/scrabble-score/obj/Debug/netcoreapp2.1/ScrabbleScore.AssemblyInfo.cs
+/Users/myfamily/Exercism/csharp/scrabble-score/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/myfamily/Exercism/csharp/scrabble-score/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/myfamily/Exercism/csharp/scrabble-score/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/myfamily/Exercism/csharp/scrabble-score/bin/Debug/netcoreapp2.1/ScrabbleScore.deps.json
+/Users/myfamily/Exercism/csharp/scrabble-score/bin/Debug/netcoreapp2.1/ScrabbleScore.runtimeconfig.json
+/Users/myfamily/Exercism/csharp/scrabble-score/bin/Debug/netcoreapp2.1/ScrabbleScore.runtimeconfig.dev.json
+/Users/myfamily/Exercism/csharp/scrabble-score/bin/Debug/netcoreapp2.1/ScrabbleScore.dll
+/Users/myfamily/Exercism/csharp/scrabble-score/bin/Debug/netcoreapp2.1/ScrabbleScore.pdb
+/Users/myfamily/Exercism/csharp/scrabble-score/obj/Debug/netcoreapp2.1/ScrabbleScore.dll
+/Users/myfamily/Exercism/csharp/scrabble-score/obj/Debug/netcoreapp2.1/ScrabbleScore.pdb
